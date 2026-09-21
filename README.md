@@ -4,7 +4,13 @@ Este sistema tem o funcionamento de avisar caso a água utilizada ultrapassa 25 
 
 ![Static Badge](https://img.shields.io/badge/economia-Consumo_de_água-green)
 
-Para utilizar o programa basta responder o que se pede, colocando todos os números para garantir que a resposta seja fiel a realidade, ou seja, se o consumo for de 25.68 colocar apenas 25.0 mudará o resultado necessitando de todos os números após a virgula.
+Para utilizar o programa basta responder o que se pede, colocando todos os números para garantir que a resposta seja fiel a realidade, ou seja, se o consumo for de 25.68 colocar apenas 25.0 mudará o resultado necessitando de todos os números após a virgula e evitando o uso de espaços antes das respostas, pois o sistema não intensificará caso assim o faça, para o funcionamento perfeito escreva sem espaços e de maneira objetiva.
+
+exemplo: qual o estilo da localidade:
+
+❌ meu estilo de localidade é casa
+
+✅casa
 
 linguagem usada:
 
